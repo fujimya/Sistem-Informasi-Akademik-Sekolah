@@ -27,7 +27,7 @@
 
     <footer style="color: white;">
       <marquee>
-          <strong>Copyright &copy; <script>document.write(new Date().getFullYear());</script> &diams; <a href="http://smkn1jenpo.sch.id/" style="color: white;">SMK Negeri 1 Jenangan Ponorogo</a>. </strong>
+          <strong>Copyright &copy; <script>document.write(new Date().getFullYear());</script> &diams; <a href="" style="color: white;">SMK Muhammadiyah</a>. </strong>
       </marquee>
     </footer>
   </div>
